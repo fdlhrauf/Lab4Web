@@ -38,9 +38,9 @@
 
 ![imag](https://github.com/fdlhrauf/Lab4Web/blob/main/images/work.JPG)
 
-![imag](https://github.com/fdlhrauf/Lab4Web/blob/main/images/about me.JPG)
+![imag](https://github.com/fdlhrauf/Lab4Web/blob/main/images/about%20me.JPG)
 
-![imag](https://github.com/fdlhrauf/Lab4Web/blob/main/images/about me 2.JPG)
+![imag](https://github.com/fdlhrauf/Lab4Web/blob/main/images/about%20me%202.JPG)
 
 ![imag](https://github.com/fdlhrauf/Lab4Web/blob/main/images/contact.JPG)
 
