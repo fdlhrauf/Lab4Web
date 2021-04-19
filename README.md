@@ -1,4 +1,51 @@
 # Lab4Web
+# Pertanyaan dan Tugas
+1. Tambahkan Layout untuk menu About
+=> buat single layout yang berisi deskripsi, portfolio, dll
+2. Tambahkan layout untuk menu Contact
+=> yang berisi form isian: nama, email, message, dll
+# J A W A B A N
+
+![imag](https://github.com/fdlhrauf/Lab4Web/blob/main/images/index1.JPG)
+
+![imag](https://github.com/fdlhrauf/Lab4Web/blob/main/images/index2.JPG)
+
+![imag](https://github.com/fdlhrauf/Lab4Web/blob/main/images/index3.JPG)
+
+![imag](https://github.com/fdlhrauf/Lab4Web/blob/main/images/index4.JPG)
+
+![imag](https://github.com/fdlhrauf/Lab4Web/blob/main/images/index5.JPG)
+
+![imag](https://github.com/fdlhrauf/Lab4Web/blob/main/images/index6.JPG)
+
+![imag](https://github.com/fdlhrauf/Lab4Web/blob/main/images/index7.JPG)
+
+![imag](https://github.com/fdlhrauf/Lab4Web/blob/main/images/index8.JPG)
+
+![imag](https://github.com/fdlhrauf/Lab4Web/blob/main/images/index9.JPG)
+
+![imag](https://github.com/fdlhrauf/Lab4Web/blob/main/images/index10.JPG)
+
+![imag](https://github.com/fdlhrauf/Lab4Web/blob/main/images/index11.JPG)
+
+![imag](https://github.com/fdlhrauf/Lab4Web/blob/main/images/index12.JPG)
+
+![imag](https://github.com/fdlhrauf/Lab4Web/blob/main/images/index13.JPG)
+
+![imag](https://github.com/fdlhrauf/Lab4Web/blob/main/images/layout.JPG)
+
+![imag](https://github.com/fdlhrauf/Lab4Web/blob/main/images/intro.JPG)
+
+![imag](https://github.com/fdlhrauf/Lab4Web/blob/main/images/work.JPG)
+
+![imag](https://github.com/fdlhrauf/Lab4Web/blob/main/images/about me.JPG)
+
+![imag](https://github.com/fdlhrauf/Lab4Web/blob/main/images/about me 2.JPG)
+
+![imag](https://github.com/fdlhrauf/Lab4Web/blob/main/images/contact.JPG)
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Web Layout
 Web layout merupakan kerangka yang mengatur penempatan tata letak sebuah elemen pada
 halaman web. Tata letak element seperti navigasi, header, tombol CTA (Call to Action), dan elemen
